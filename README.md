@@ -1,2 +1,2 @@
-# banking-app
-This is a simple banking app
+# Banking App
+This is a simple banking application that allows users to perform banking operations such as checking account balances, transferring funds, and viewing transaction history. The app is designed to provide a seamless user experience with a clean and intuitive interface.
